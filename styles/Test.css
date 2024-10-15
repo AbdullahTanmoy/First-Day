@@ -1,0 +1,16 @@
+.bg-test-colour{
+    background-color:rgb(172, 142, 131)
+}
+.test-border{
+    border: 3px solid red;
+}
+.test-border2{
+    border: 1px solid green;
+}
+.test-border3{
+    border: 2px solid blue;
+}
+.image-box img {
+    height: 300px;
+    object-fit: cover;
+  }
